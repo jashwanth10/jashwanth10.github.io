@@ -8,7 +8,7 @@ description: A blog about stuff
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile_picture_main.jpg
+picture: assets/images/triangle.webp
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
@@ -18,7 +18,7 @@ dark-theme: auto
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: assets/Research_Resume.pdf
+resume-url: assets/Resume_Systems_C.pdf
 
 url: https://sergiokopplin.github.io/indigo
 # your url: https://USERNAME.github.io
@@ -31,19 +31,19 @@ permalink: /:title/
 # if you don't want comments in your posts, leave categories empty
 disqus:
   shortname: github # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+  categories: [] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 linkedin: https://www.linkedin.com/in/jashwanth10/
 github: https://github.com/jashwanth10
 facebook: https://www.facebook.com/sai.jashwanth.3
-twitter: https://twitter.com/TheWeeeekday
+twitter: https://twitter.com/Nammavare
 email: jashwanth.gajjala@gmail.com
 
 authors:
   johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+    name: Jashwanth Gajjala
+    bio: Software Engineer
     external-image: false
     picture: assets/images/profile.jpg
     twitter: johndoe
